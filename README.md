@@ -2,4 +2,4 @@
 Test GitHub functionality
 
 Andrew Mui
-Testing GitHub for Coursera
+Testing GitHub stuff for class
